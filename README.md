@@ -17,6 +17,8 @@
 - 🌐 Check out my GitHub for some cool projects:
   - 💻 [Workout App](https://github.com/kacpercwiertnia/workout_app) - A web app for creating training plans using Django and React.
   - 🔄 [Darwin Simulation](https://github.com/kacpercwiertnia/darwin_simulation) - Java application simulating the game of life.
+  - 🖼️ [Gallery App](https://github.com/kacpercwiertnia/gallery_app) - Java application that displays thumbnails of uploaded images.
+
 
 ## 🔧 Technologies
 
