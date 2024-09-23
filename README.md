@@ -2,8 +2,8 @@
 
 ## 🎓 Student and Developer
 
-- 📚 3rd-year Computer Science student at AGH University of Science and Technology.
-- 💼 Currently working in JCHost.pl as a Technical Support since June 2021.
+- 📚 4th-year Computer Science student at AGH University of Science and Technology.
+- 💼 Currently working @ IBM as a Java Developer Intern.
 
 ## 🏆 Achievements
 
