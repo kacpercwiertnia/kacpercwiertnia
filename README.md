@@ -10,6 +10,7 @@
 - 🏆 Winner of the 2019 international programming contest Baltie.
 - 🥈 2nd place in the 2018 international programming contest Baltie.
 - 🎓 ECDL Standard Certificate holder (2018).
+- 🎓 In February 2025, I successfully defended my engineering degree with a grade of 5.0.
 
 ## 💡 Projects
 
@@ -18,6 +19,7 @@
   - 💻 [Workout App](https://github.com/kacpercwiertnia/workout_app) - A web app for creating training plans using Django and React.
   - 🔄 [Darwin Simulation](https://github.com/kacpercwiertnia/darwin_simulation) - Java application simulating the game of life.
   - 🖼️ [Gallery App](https://github.com/kacpercwiertnia/gallery_app) - Java application that displays thumbnails of uploaded images.
+  - ✈️ [DronHub](https://github.com/kacpercwiertnia/Engineerka) - An engineering thesis project focused on visualizing drone flights.
 
 
 ## 🔧 Technologies
